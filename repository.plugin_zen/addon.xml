@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.plugin_zen" name="The Plugin Zen Repository" version="0.0.1" provider-name="Kaspar Winckler">
+<addon id="repository.plugin_zen" name="The Plugin Zen Repository" version="0.0.2" provider-name="Kaspar Winckler">
   <extension point="xbmc.addon.repository">
     <dir>
-      <datadir>https://raw.githubusercontent.com/KasparWinckler/repository.plugin_zen.datadir/main/addons/</datadir>
+      <datadir>https://raw.githubusercontent.com/KasparWinckler/repository.plugin_zen.datadir/main/</datadir>
       <info>https://raw.githubusercontent.com/KasparWinckler/repository.plugin_zen.datadir/main/addons.xml</info>
       <checksum>https://raw.githubusercontent.com/KasparWinckler/repository.plugin_zen.datadir/main/addons.xml.md5</checksum>
     </dir>
