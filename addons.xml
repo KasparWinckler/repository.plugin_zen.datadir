@@ -12,14 +12,14 @@
     <description>The Plugin Zen Repository</description>
     <license>GPLv3</license>
   </extension>
-</addon><addon id="script.module.plugin_zen" name="Plugin Zen" version="0.0.2" provider-name="Kaspar Winckler">
+</addon><addon id="script.module.plugin_zen" name="Plugin Zen" version="0.0.3" provider-name="Kaspar Winckler">
   <extension point="xbmc.python.module" library="lib" />
   <extension point="xbmc.addon.metadata">
     <summary>Plugin Zen</summary>
     <description>The zen of plugin development</description>
     <license>GPLv3</license>
   </extension>
-</addon><addon id="plugin.video.france.tv" name="france.tv" version="0.0.5" provider-name="Kaspar Winckler">
+</addon><addon id="plugin.video.france.tv" name="france.tv" version="0.0.6" provider-name="Kaspar Winckler">
   <requires>
     <import addon="script.module.plugin_zen" />
     <import addon="script.module.requests" />
